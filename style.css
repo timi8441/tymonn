@@ -1,0 +1,156 @@
+body{
+
+  font-size:25px;
+
+background-color: black;
+
+}
+
+
+ul{
+
+  text-align:right;
+
+  padding:30px;
+
+}
+
+li{
+
+  font-weight:900;
+
+  display:inline;
+
+  padding:8px;
+
+  text-transform:uppercase;
+
+}
+
+a{
+
+  text-decoration:none;
+
+  color:white;
+
+  padding:8px;
+
+  border-bottom:2px solid transparent;
+
+  transition-duration:0.2s;
+
+}
+
+a:hover{
+
+  border-bottom:2px solid orange;
+
+}
+
+#hero{
+
+  text-align:center;
+
+  color:white;
+
+  padding:2px;
+
+}
+
+#box{
+
+  background-color:black;
+
+  text-align:center;
+
+}
+
+.heroes{
+
+  color:white;
+
+  padding:30px;
+
+  font-size:bold;
+
+
+
+}
+
+.image-info{
+
+  width:500px;
+
+  height:400px;
+
+  object-fit:cover;
+
+  border-radius:100px;
+
+}
+
+.postac{
+
+  font-weight:900;
+
+  display:inline;
+
+  padding:8px;
+
+  text-transform:uppercase;
+
+}
+
+
+
+
+.column-three{
+
+  width: 33.33%;
+
+  float:left;
+
+  background-color:black;
+
+
+
+}
+
+#menu{
+
+  max-width:1400px;
+
+  margin-left:auto;
+
+  margin-right:auto;
+
+  background-image: url('');
+
+  background-repeat:no-repeat;
+
+  background-size:cover;
+
+  background-attachment:fixed;
+
+  height:800px;
+}
+
+img#logo {
+  position: absolute;
+  left: 50%;
+  top: 140px;
+  margin-left: -400px;
+  width: 800px;
+}
+
+h2 {
+
+font-size: 50px;
+
+}
+
+#hero{
+
+font-size: 50px;
+
+}
